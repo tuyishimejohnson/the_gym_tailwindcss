@@ -845,11 +845,6 @@ video {
   line-height: 1.25rem;
 }
 
-.text-xs{
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-
 .font-bold{
   font-weight: 700;
 }
@@ -892,6 +887,16 @@ video {
 
 .shadow-rose-300{
   --tw-shadow-color: #fda4af;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-rose-700{
+  --tw-shadow-color: #be123c;
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
+.shadow-rose-400{
+  --tw-shadow-color: #fb7185;
   --tw-shadow: var(--tw-shadow-colored);
 }
 
