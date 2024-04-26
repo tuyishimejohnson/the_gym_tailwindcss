@@ -610,10 +610,6 @@ video {
   margin-top: 6rem;
 }
 
-.mt-28{
-  margin-top: 7rem;
-}
-
 .mt-36{
   margin-top: 9rem;
 }
@@ -842,6 +838,16 @@ video {
 .text-3xl{
   font-size: 1.875rem;
   line-height: 2.25rem;
+}
+
+.text-xl{
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.text-sm{
+  font-size: 0.875rem;
+  line-height: 1.25rem;
 }
 
 .font-bold{
