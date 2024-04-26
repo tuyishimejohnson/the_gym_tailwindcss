@@ -662,10 +662,6 @@ video {
   justify-content: space-between;
 }
 
-.justify-evenly{
-  justify-content: space-evenly;
-}
-
 .gap-3{
   gap: 0.75rem;
 }
@@ -887,16 +883,6 @@ video {
 
 .shadow-rose-300{
   --tw-shadow-color: #fda4af;
-  --tw-shadow: var(--tw-shadow-colored);
-}
-
-.shadow-rose-700{
-  --tw-shadow-color: #be123c;
-  --tw-shadow: var(--tw-shadow-colored);
-}
-
-.shadow-rose-400{
-  --tw-shadow-color: #fb7185;
   --tw-shadow: var(--tw-shadow-colored);
 }
 
