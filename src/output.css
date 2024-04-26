@@ -556,6 +556,22 @@ video {
   --tw-contain-style:  ;
 }
 
+.fixed{
+  position: fixed;
+}
+
+.left-0{
+  left: 0px;
+}
+
+.right-0{
+  right: 0px;
+}
+
+.top-0{
+  top: 0px;
+}
+
 .m-auto{
   margin: auto;
 }
@@ -596,6 +612,10 @@ video {
 
 .mt-28{
   margin-top: 7rem;
+}
+
+.mt-36{
+  margin-top: 9rem;
 }
 
 .mt-8{
@@ -695,6 +715,11 @@ video {
 .bg-rose-500{
   --tw-bg-opacity: 1;
   background-color: rgb(244 63 94 / var(--tw-bg-opacity));
+}
+
+.bg-white{
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
 .px-10{
@@ -862,4 +887,8 @@ video {
 
 body {
   font-family: "Rubik", sans-serif;
+}
+
+.navigation-bar {
+  box-shadow: 4px 5px 10px #f7c1ca;
 }

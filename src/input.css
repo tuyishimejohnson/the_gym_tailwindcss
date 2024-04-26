@@ -7,3 +7,8 @@
 body {
     font-family: "Rubik", sans-serif;
 }
+
+
+.navigation-bar {
+    box-shadow: 4px 5px 10px #f7c1ca;
+}
